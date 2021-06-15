@@ -1,0 +1,11 @@
+1623623105006	geckodriver	INFO	Listening on 127.0.0.1:1220
+1623623108066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\XV_LT\\AppData\\Local\\Temp\\rust_mozprofilex0vQv5"
+1623623108589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\XV_LT\\AppData\\Local\\Temp\\rust_mozprofilex0vQv5\\search.json.mozlz4", (void 0)))
+1623623111242	Marionette	INFO	Listening on port 1231
+1623623111763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.bukalapak.com/sievex-frontend/vendors/fhp/v1/fhp-init-accounts.min.js, line 1: TypeError: i.data is undefined
+1623623122196	Marionette	INFO	Stopped listening on port 1231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
